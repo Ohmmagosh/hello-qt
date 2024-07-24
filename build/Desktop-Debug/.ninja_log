@@ -1,0 +1,25 @@
+# ninja log v6
+1572	1763	1721835483113143834	hello-qt	93669df09a6e06cf
+239	1572	1721835481783135260	CMakeFiles/hello-qt.dir/main.cpp.o	d66f2fa7bd564f95
+239	1556	1721835481783135260	CMakeFiles/hello-qt.dir/mainwindow.cpp.o	b16ea7ca422e5eee
+39	239	1721835481776468551	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+39	239	1721835481776468551	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/timestamp	76326605c45abbe8
+39	239	1721835481776468551	hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+239	1511	1721835481783135260	CMakeFiles/hello-qt.dir/hello-qt_autogen/mocs_compilation.cpp.o	44d553c89a9c9ced
+39	239	1721835481776468551	hello-qt_autogen/timestamp	76326605c45abbe8
+1	31	1721835900475611556	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	8ba5a29556fae1f7
+31	162	1721835900608944485	build.ninja	74b35bbaefc3360f
+1	28	1721835900622277779	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	8ba5a29556fae1f7
+29	52	1721835900648944364	hello-qt_autogen/timestamp	76326605c45abbe8
+29	52	1721835900648944364	hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+29	52	1721835900648944364	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/timestamp	76326605c45abbe8
+29	52	1721835900648944364	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+52	1433	1721835900672277627	CMakeFiles/hello-qt.dir/mainwindow.cpp.o	b16ea7ca422e5eee
+1433	1626	1721835902052273461	hello-qt	93669df09a6e06cf
+1	31	1721842252813117224	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	8ba5a29556fae1f7
+32	57	1721842252843117285	hello-qt_autogen/timestamp	76326605c45abbe8
+32	57	1721842252843117285	hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+32	57	1721842252843117285	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/timestamp	76326605c45abbe8
+32	57	1721842252843117285	/home/ohmaagoch/Desktop/qt-projects/hello-qt/build/Desktop-Debug/hello-qt_autogen/mocs_compilation.cpp	76326605c45abbe8
+57	1245	1721842252869784009	CMakeFiles/hello-qt.dir/mainwindow.cpp.o	b16ea7ca422e5eee
+1245	1422	1721842254056453154	hello-qt	93669df09a6e06cf
